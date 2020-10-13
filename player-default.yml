@@ -1,5 +1,5 @@
 db:
-    url: jdbc:postgresql://localhost:5432/player
+    url: jdbc:postgre12312312313
 
 player:
-    max-playlists: 100
+    max-playlists: 12312
